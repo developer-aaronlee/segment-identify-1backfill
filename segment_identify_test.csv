@@ -1,0 +1,4 @@
+userId,email,has_pball,has_pband,has_pmat
+segmenttest34@yopmail.com,segmenttest34@yopmail.com,TRUE,FALSE,FALSE
+segmenttest35@yopmail.com,segmenttest35@yopmail.com,FALSE,TRUE,FALSE
+segmenttest36@yopmail.com,segmenttest36@yopmail.com,FALSE,FALSE,TRUE
